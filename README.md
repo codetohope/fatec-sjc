@@ -1,1 +1,1 @@
-# fatec-sjc-big-data-first-team
+# Code to Hope in partnership with Fatec São José dos Campos

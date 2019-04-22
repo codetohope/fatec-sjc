@@ -1,1 +1,1 @@
-# Code to Hope in partnership with Fatec São José dos Campos
+# Code to Hope in partnership with Fatec - SJC
